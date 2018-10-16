@@ -5,9 +5,9 @@ Aufgaben für C#  ~D \\(^o^)/ __/
 ## Hausaufgabe 1
 
 ### 1. Erstellen von neuen Projekten in Visual Studio
-Öffne dein Visual Studio und erstelle eine neues C# Konsolen Applikation (Console Application mit den Namen 'AykoshRulesThemAll'.
+Öffne dein Visual Studio und erstelle eine neue C# Konsolen Applikation (Console Application mit den Namen 'AykoshRulesThemAll'.
 
-Zu den verschiedene Projekten die erstellbar sind, es sind Templates, was im Grunde genommen bedeutet
+Zu den verschiedenen Projekten die erstellbar sind, es sind Templates, was im Grunde genommen bedeutet
 Visual Studio erstellt eine Ordnerstruktur mit entsprechenden Dateien und Einstellung für ein bestimmte
 Anwendung, welche man erstellen will. Beispiele wären, unsere Konsolen Anwendung, ein Spiel oder eine
 Klassen Bibliothek (aber dazu später ^^).
